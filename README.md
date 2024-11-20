@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Email: bangikarthk7@gmail.com</p>
+<p align="left">Email: bangikarthk@gmail.com</p>
 <p align="left">LinkedIn: <a href="https://linkedin.com/in/bkarthik">linkedin.com/in/bkarthik</a></p>
 <p align="left">GitHub: <a href="https://github.com/bkarthik">github.com/bkarthik</a></p>
 
